@@ -117,9 +117,3 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 - [ ] Implementar notificações
 - [ ] Adicionar temas personalizáveis
 - [ ] Implementar backup de dados
-
-## 📧 Contato
-
-Seu Nome - [@seu_twitter](https://twitter.com/seu_twitter) - seu.email@exemplo.com
-
-Link do Projeto: [https://github.com/seu-usuario/TaskApp](https://github.com/seu-usuario/TaskApp) 
